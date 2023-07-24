@@ -2,6 +2,8 @@ CLOUD RESUME CHALLENGE BY CARLOS RODRIGUEZ
 
 Here is my presentation for my Cloud Resume Challenge for AWS. The challenge is a multi-step project that showcases your skills in cloud fundamentals. I had no prior Dev-Ops experience prior to taking on the project which made this that much more challenging but also well worth the experience.
 
+Here is the link to my cloud resume website: https://carlosrcloudresume.com/
+
 The Architecture used in AWS included: -S3 -Lambda -CloudFront -Route53 -DynamoDB
 
 Other programming languages/tools used included: -HTML -CSS -Javascript -API -Python -Git -Github & Github Actions -Terraform
