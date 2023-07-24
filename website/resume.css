@@ -1,0 +1,47 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+html {
+    background-color: DDE6ED;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+#top-title {
+    font-size: 50px;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+h5 {
+    font-weight: 500;
+}
+
+hr {
+    width: 100%;
+    height: 10px;
+    background-color: black;
+}
+
+.counter {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+footer {
+    margin-top: auto;
+  }
